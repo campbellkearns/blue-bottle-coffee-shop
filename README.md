@@ -1,3 +1,16 @@
+## Blue Bottle Coffee Shop Remake
+
+We are using the Blue Bottle Coffee [shop page](https://bluebottlecoffee.com/store) as our spec for this exercise.
+
+Let's recreate this page using:
+
+- React
+- [styled-components](https://styled-components.com/docs/basics#installation)
+
+Do not worry about recreating particular assets on the page like the images or logos. We want to focus on the composition of our React components. The `render()` method of the `src/App.js` file should only return other React components that you create!
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
